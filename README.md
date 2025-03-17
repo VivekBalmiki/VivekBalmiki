@@ -1,70 +1,47 @@
-# Hi there! 👋 I'm Vivek Balmiki  
+# 👋 Hey there, I'm Vivek Balmiki!  
 
-## 🚀 About Me
-I am a **BSc Computer Science Student** passionate about **Data Science and Machine Learning**. I thrive on **exploring data, deriving insights, and creating intelligent solutions**. My goal is to become a **Data Scientist**, and I continuously enhance my skills through hands-on projects, virtual internships, and real-world applications.
+## 🚀 About Me  
+I'm a **BSc Computer Science student** who talks to data more than people (because data always makes sense, right?).  
+Currently **learning Machine Learning algorithms** and figuring out how to make computers think like humans—without them taking over the world.  
 
----
-
-## 🛠️ Skills & Technologies
-
-**💻 Programming & Data Science:**  
-- Python, Pandas, NumPy, Matplotlib, Seaborn  
-- Scikit-Learn, Machine Learning, Feature Engineering  
-- Power BI & Tableau (Data Visualization & Dashboarding)  
-
-**🌍 Web Development:**  
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- Flask  
-- HTML, CSS, JavaScript  
-- JSP & Servlets with MongoDB  
+🔍 **What I Do?**  
+- Dig through messy datasets like a detective on a case.  
+- Make dashboards that (hopefully) don’t put you to sleep.  
+- Train ML models that sometimes behave better than my Wi-Fi.  
 
 ---
 
-## 📌 Projects
+## 🛠️ Skills & Technologies  
 
-### 🧠 Data Science & Analytics Projects
-- **[Blinkit Sales Dashboard (Power BI)](#)**  
-  *Designed an interactive Power BI dashboard to analyze sales performance.*
-- **[Flight Price Prediction](#)**  
-  *Built a predictive model to estimate flight ticket prices based on various features.*
-- **[Black Friday Sales Analysis](#)**  
-  *Performed exploratory data analysis (EDA) to uncover customer buying patterns and trends.*
-- **[Dental Appointments Analysis](#)**  
-  *Conducted primary data collection and visualization for appointment trends.*
-- **[Zomato EDA](#)**  
-  *Analyzed restaurant data to extract meaningful insights and trends.*
+💻 **Programming & Data Science:**  
+- Python (where I tell pandas and NumPy what to do)  
+- Power BI & Tableau (because visuals > spreadsheets)  
+- Machine Learning, Feature Engineering, and trying not to overfit models  
 
-### 🌐 Full-Stack & Web Development Projects
-- **[InstantPlate (MERN Stack)](#)**  
-  *A food ordering platform that allows users to place orders online and at restaurants.*  
-  *A platform that enables users to manage and analyze their business.*
-- **[E-commerce Website (HTML, CSS, JS)](#)**  
-  *Developed a responsive e-commerce website with product listings and a shopping cart.*
+🌍 **Web Development (aka my side quest):**  
+- MERN Stack (MongoDB, Express, React, Node)  
+- Flask (when I want to mix Python with web magic)  
+- HTML, CSS, JavaScript (the building blocks of the internet)  
 
 ---
 
-## 🎓 Virtual Internships & Forage Experience
-
-### **Quantium**
-- **Task 1:** Data preparation and customer analytics *(Advanced, 1-2 hours)*
-- **Task 2:** Experimentation and uplift testing *(Advanced, 1-2 hours)*
-- **Task 3:** Analytics and commercial application *(Advanced, 1-2 hours)*
-- **Achievement:** Successfully completed all tasks and received certification.
-
-### **Deloitte**
-- **Task 1:** Data analysis *(30-60 mins)*
-- **Task 2:** Forensic technology *(<30 mins)*
-- **Achievement:** Successfully completed all tasks and received certification.
+## 🎯 Currently Learning  
+- **Machine Learning Algorithms** (because "AI overlord" sounds cool)
+- **Advanced Data Visualization** (turning numbers into eye candy)  
+- **Power BI** (because dashboards make data storytelling fun)
 
 ---
 
-## 📊 GitHub Stats & Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demouser&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demouser&layout=compact&theme=radical)
+## 💬 How to Reach Me?  
+📩 **Email:** [vivekbalmiki@gmail.com](mailto:balmikivivek00@gmail.com)  
+💼 **LinkedIn:** [Vivek Balmiki](https://www.linkedin.com/in/vivekbalmiki/)
 
 ---
+-<div align="center">
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VivekBalmiki&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VivekBalmiki&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBalmiki&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📫 Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/vivekbalmiki/](#)  
-
-✨ **Let's build something amazing together!** 🚀
+---
+✨ If you've made it this far, let's build something awesome together! 🚀
