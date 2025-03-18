@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Vivek Balmiki!  
 
 ## 🚀 About Me  
-I'm a **BSc Computer Science student** who talks to data more than people (because data always makes sense, right?).  
+I'm a **Data Science enthusiast** who talks to data more than people (because data always makes sense, right?).  
 Currently **learning Machine Learning algorithms** and figuring out how to make computers think like humans—without them taking over the world.  
 
 🔍 **What I Do?**  
